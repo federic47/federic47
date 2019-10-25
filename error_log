@@ -1,0 +1,1 @@
+[24-Oct-2019 15:27:44 America/Chicago] PHP Fatal error:  Cannot redeclare App\Controllers\Prueba::test() in /home/fedekoss/public_html/application/app/Controllers/Prueba.php on line 13
